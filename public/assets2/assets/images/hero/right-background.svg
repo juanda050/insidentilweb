@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 752 1048" style="enable-background:new 0 0 752 1048;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E97911;}
+	.st1{fill:#1642B9;filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_1269_5238_00000157279048945545974030000006926379023681262525_);}
+	.st3{opacity:0.3;}
+	.st4{fill:#5B3111;}
+</style>
+<path class="st0" d="M0,0h752v1048H0V0z"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-280.5" y="-265" width="1345.9" height="1515.5">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-280.5" y="-265" width="1345.9" height="1515.5" id="mask0_1269_5238_00000157279048945545974030000006926379023681262525_">
+	<path class="st1" d="M0,2.8h752v1048H0V2.8z"/>
+</mask>
+<g class="st2">
+	<g>
+		<g class="st3">
+			<circle class="st4" cx="671.5" cy="856.6" r="393.9"/>
+		</g>
+		<g class="st3">
+			<circle class="st4" cx="242.4" cy="1015.5" r="125.2"/>
+		</g>
+		<g class="st3">
+			<circle class="st4" cx="-16.6" cy="69.4" r="263.8"/>
+		</g>
+		<g class="st3">
+			<circle class="st4" cx="310.8" cy="200" r="465"/>
+		</g>
+	</g>
+</g>
+</svg>
